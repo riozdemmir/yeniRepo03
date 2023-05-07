@@ -16,7 +16,7 @@ public class Class03 {
         //V7 için çalışmalar..
         //Github değişiklikleri..
         // Local'den sevgilerle..
-        //V8...
+        //V8....
 
 
     }
