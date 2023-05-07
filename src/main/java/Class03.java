@@ -12,7 +12,6 @@ public class Class03 {
         System.out.println("V3 kodları..");
         //V4
         System.out.println("V4 çalışmaları..");
-        //V5 kodlarım..
         //V6 için yeni çalışmalar..
         //V7 için çalışmalar..
         //Github değişiklikleri..
