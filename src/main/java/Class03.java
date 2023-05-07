@@ -13,6 +13,7 @@ public class Class03 {
         //V4
         System.out.println("V4 çalışmaları..");
         //V5 kodlarım..
+        //V6 için yeni çalışmalar..
 
 
     }
