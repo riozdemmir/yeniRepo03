@@ -15,8 +15,7 @@ public class Class03 {
         //V6 için yeni çalışmalar..
         //V7 için çalışmalar..
         //Github değişiklikleri..
-        // Local'den sevgilerle..
-        // Local'den merhabalar :))
+        // Local'den sevgilerle...
 
 
     }
